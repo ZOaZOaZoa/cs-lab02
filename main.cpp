@@ -8,8 +8,8 @@ int main()
     int a, b;
     cin >> a >> b;
 
-    cout << "Sum: " << a + b << endl;
-    cout << "Diff: " << a - b << endl;
+    cout << "A + B = " << a + b << '\n'
+     << "A - B = " << a - b << '\n';
 
     return 0;
 }
