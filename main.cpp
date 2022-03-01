@@ -18,7 +18,7 @@ int main()
         max = b;
     }
 
-    int min;
+    double min;
     if (a <= b)
     {
         min = a;
