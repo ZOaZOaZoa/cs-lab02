@@ -2,14 +2,13 @@
 
 using namespace std;
 
-//Добавил умножение
 int main()
 {
     cout << "Enter A and B: ";
-    int a, b;
+    double a, b;
     cin >> a >> b;
 
-    int max;
+    double max;
     if (a >= b)
     {
         max = a;
